@@ -323,7 +323,7 @@ html, body {
   .yb-my-profile-img {
     position: relative;
     width: 100%;
-    height: 400px;
+    height: 100%;
   }
 }
 
